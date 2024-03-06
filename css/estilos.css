@@ -1,8 +1,8 @@
 body
 {   
-    color:red;
+    color:darkcyan;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Cascadia Code";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -10,9 +10,9 @@ body
 
 #cabecera
 {
-    background:aquamarine;
+    background:chartreuse;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color:crimson;
+    color:darkgoldenrod;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
